@@ -1,0 +1,22 @@
+/*RESET*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header div{
+    display: inline-block;
+    vertical-align: 1.2rem;
+    font-size: 1.5rem;
+}
+
+header{
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+}
+
+header img{
+    height: 4rem;
+}
+
