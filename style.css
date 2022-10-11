@@ -36,10 +36,11 @@ main{
 }
 
 #style{
+    margin-left: 25px;
     padding-top: 4px;
     padding-bottom :4px ;
-    padding-left :8px;
-    padding-right: 8px;
+    padding-left :15px;
+    padding-right: 15px;
     font-size: 1rem;
     color: white;
     background-color: #45abea;
@@ -49,9 +50,45 @@ main{
 #button{
     padding-top: 4px;
     padding-bottom: 4px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
     font-size: 1rem;
-    
-    
+    color: lightgrey;
+    background-color:white;
+    border-radius: 5px;
+}
+
+#bottoni{
+    border-bottom: 2px solid lightgray;
+    width: 900px;
+    padding-bottom: 10px;
+}
+.forma{
+    padding-top: 10px;
+    font-size: 1.5rem;
+    color:#454952;
+}
+
+
+
+main ul{
+    padding-left: 40px;
+    list-style: none;
+}
+
+.check{
+    color: #6ac2ac;
+    background-color: white;
+    border-radius: 100%;
+    border-color: #6ac2ac;
+    border: solid;
+
+}
+
+.uncheck{
+    color: #ec655f;
+    background-color: white;
+    border-radius: 100%;
+    border-color: #ec655f;
+    border: solid;
 }
