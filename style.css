@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: lightgrey;
+}
+
+
 header div{
     display: inline-block;
     vertical-align: 1.2rem;
@@ -12,11 +17,41 @@ header div{
 }
 
 header{
-    margin-left: 2rem;
-    margin-top: 0.5rem;
+    background-color: white;
 }
 
 header img{
     height: 4rem;
 }
+main{
 
+    width: 60% ;
+    background-color: white;
+    border-radius: 5px;
+
+    border-width: 5rem;
+    
+    padding: 15px;
+    margin: 40px auto;
+}
+
+#style{
+    padding-top: 4px;
+    padding-bottom :4px ;
+    padding-left :8px;
+    padding-right: 8px;
+    font-size: 1rem;
+    color: white;
+    background-color: #45abea;
+    border-radius:5px;
+}
+
+#button{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 1rem;
+    
+    
+}
