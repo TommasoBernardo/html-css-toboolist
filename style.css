@@ -76,7 +76,12 @@ main ul{
     list-style: none;
 }
 
+li{
+    line-height: 2.8rem;
+}
+
 .check{
+    margin-right: 10px;
     color: #6ac2ac;
     background-color: white;
     border-radius: 100%;
@@ -86,9 +91,65 @@ main ul{
 }
 
 .uncheck{
+    margin-right: 10px;
     color: #ec655f;
     background-color: white;
     border-radius: 100%;
     border-color: #ec655f;
     border: solid;
+}
+
+.editorial{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #45abea;
+    color: white;
+    border-radius: 5px;
+}
+#Q1{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #9c72e4;
+    color: white;
+    border-radius: 5px;
+}
+
+#Recruiting{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #64c0a9;
+    color: white;
+    border-radius: 5px;
+}
+
+#mobile{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #f29e33;
+    color: white;
+    border-radius: 5px;
+}
+
+#website{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #d863a1;
+    color: white;
+    border-radius: 5px;
+}
+
+#sales{
+    margin-left: 10px;
+    padding: 4px;
+    background-color:#b0c926;
+    color: white;
+    border-radius: 5px;
+}
+
+#editorial{
+    margin-left: 10px;
+    padding: 4px;
+    background-color: #b0c926;
+    color: white;
+    border-radius: 5px;
 }
